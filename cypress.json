@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://demoqa.com/",
+    
+    
+"env": {
+        "USERNAME": "admin",
+        "PASSWORD": "admin"
+      }
+}

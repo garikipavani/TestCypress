@@ -1,0 +1,8 @@
+{
+    "chooseFile":".form-control-file",
+    "uploadFileCard":"//div/div/div[1]/div/ul/li[8]",
+    "uploadButton":"#uploadFile",
+    "doc1":"testupload.txt",
+    "uploadedSuccess":"#uploadedFilePath"
+
+}

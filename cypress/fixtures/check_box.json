@@ -1,0 +1,5 @@
+{
+    "expandIcon":"//*[@id='tree-node']/ol/li/span/button",
+    "checkBoxCard":"//div/div/div[1]/div/ul/li[2]",
+    "firstCheckBox":"//*[@id='tree-node-desktop']"
+}

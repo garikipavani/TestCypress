@@ -1,0 +1,16 @@
+ // cy.get(loginlocators.userName).type(Cypress.env("USERNAME"));
+        // cy.get(loginlocators.password).type(Cypress.env("PASSWORD"));
+        // cy.get(loginlocators.submitButton).click();
+        // cy.on('window:alert',(txt)=>{
+        // expect(txt).to.contains('qualitypointtech.net');
+        //  })
+        //  cy.wait(8000)
+        //  cy.xpath(loginlocators.employeeCard).click();
+
+--------------------------------------------------------------------------------------------
+Locators:
+
+"userName": "#username",
+  "password":"input[name='password']",
+  "submitButton":".butclas",
+  "employeeCard":"//tbody/tr[3]/td/ul/li[1]/a"

@@ -1,0 +1,10 @@
+{
+  "elementCard":"//div/div[1]/div/div[3]",
+  "textBox":"//div/div/div[1]/div/ul/li[1]",
+  "fullName":"#userName",
+  "email":"#userEmail",
+  "currentAdress":"#currentAddress",
+  "submitButton":"#submit",
+  "output":"//*[@id='output']"
+}
+
