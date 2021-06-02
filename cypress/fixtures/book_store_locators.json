@@ -1,0 +1,17 @@
+{
+    "bookStoreCard":"//div[1]/div/div/div[6]/span/div",
+    "userName":"#userName",
+    "userNameText":"admin",
+    "password":"#password",
+    "passwordText":"Admin12@",
+    "loginButton":"#login",
+    "bookStore":"#gotoStore",
+    "selectBook":"//*[@id='see-book-Git Pocket Guide']",
+    "addBook":"Add To Your Collection",
+    "popUpMsg":"Book added to your collection.",
+    "backtoProfilePage":"Back To Book Store",
+    "author":"Richard E. Silverman",
+    "bookTable":".rt-table"
+
+    
+}

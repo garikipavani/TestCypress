@@ -23,7 +23,7 @@ describe("Text Box actions", () => {
         Page.uploadingFile();
         Page.uploadSuccess();
     })
-    it('manage alerts and pop ups', () =>{
+    it('manage alerts and pop ups', () => {
         Page.onClickAlert();
     })
 
