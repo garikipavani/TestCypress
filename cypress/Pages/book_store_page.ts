@@ -28,6 +28,7 @@ class BookStorePage extends BasePage {
     });
 
   }
+  
 }
 
 export default BookStorePage;
